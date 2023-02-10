@@ -1,0 +1,1 @@
+const t=(t,e=300)=>{let o=null;return function(){let r=arguments,l=this;o&&window.clearTimeout(o),o=window.setTimeout((()=>{t.apply(l,r)}),e)}},e=t=>{let e=t=>t>9?t:"0"+t,o=(t=Number(t))%60,r=Math.floor(t/60);if(r>60){let t=Math.floor(r/60);return r%=60,`${e(t)}:${e(r)}:${e(o)}`}return`${e(r)}:${e(o)}`};export{t as d,e as f};
