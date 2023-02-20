@@ -1,0 +1,1 @@
+import{_ as a,a as s,o as e,c as t,x as d,y as c,l as o}from"./index.e83c403a.js";const l={class:"wrap"},i=[(a=>(d("data-v-3efeee09"),a=a(),c(),a))((()=>o("div",{class:"shadow"},null,-1)))],n={name:"test"},p=a(Object.assign(n,{setup:a=>(s(),(a,s)=>(e(),t("div",l,i)))}),[["__scopeId","data-v-3efeee09"]]);export{p as default};

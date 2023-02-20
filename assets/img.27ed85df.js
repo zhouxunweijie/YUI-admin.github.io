@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as t,l as e}from"./index.e83c403a.js";const r={class:"img_Group"},l=["src"],c=s({__name:"img",props:{url:{type:String,default:""}},setup:s=>(c,o)=>(a(),t("div",r,[e("img",{src:s.url,class:"test"},null,8,l)]))},[["__scopeId","data-v-0f8374a6"]]);export{c as default};

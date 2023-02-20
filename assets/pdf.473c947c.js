@@ -1,1 +1,0 @@
-import{_ as e,o as r,c as s,l as a,u as t}from"./index.1205de85.js";const d={class:"pdf_Group"},o=["src"],p=e({__name:"pdf",props:{url:{type:String,default:""}},setup(e){const p=e;return(e,u)=>(r(),s("div",d,[a("iframe",{src:t(p).url,frameborder:"0",width:"100%",height:"100%"},null,8,o)]))}},[["__scopeId","data-v-e37e7f79"]]);export{p as default};
