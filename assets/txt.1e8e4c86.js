@@ -1,0 +1,1 @@
+import{_ as t,f as a,o as e,c as s,B as n,u as o}from"./index.1205de85.js";const r=["textContent"],u=t({__name:"txt",props:{url:{type:String,default:""}},setup(t){const u=t;let l=a("");return(async()=>{l.value=await(await fetch(u.url)).text()})(),(t,a)=>(e(),s("pre",{class:"txt_Group",textContent:n(o(l))},null,8,r))}},[["__scopeId","data-v-50f1817c"]]);export{u as default};
